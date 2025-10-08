@@ -1,0 +1,4 @@
+# Placeholder for learner configuration
+learners:
+  academic_article:
+    description: Learner for academic articles

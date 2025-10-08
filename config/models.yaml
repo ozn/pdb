@@ -1,0 +1,5 @@
+# Placeholder for model configuration
+models:
+  default:
+    name: gpt-4o
+    provider: openai

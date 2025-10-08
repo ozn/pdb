@@ -1,0 +1,17 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+ENV/
+.vscode/
+.idea/
+
+# Data and outputs
+data/
+outputs/
+models/
+temp/
+.pytest_cache/

@@ -1,0 +1,6 @@
+# Requirements for ArtW project
+
+# Core dependencies (add actual package versions as needed)
+click
+pyyaml
+requests

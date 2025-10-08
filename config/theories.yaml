@@ -1,0 +1,6 @@
+# Placeholder for theory definitions
+theories:
+  sample_theory:
+    name: Sample Theory
+    keywords:
+      - example
